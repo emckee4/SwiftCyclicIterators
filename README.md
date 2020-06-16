@@ -1,5 +1,5 @@
 
-# CyclicIterators
+# SwiftCyclicIterators
 
   
 
